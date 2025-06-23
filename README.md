@@ -17,7 +17,8 @@
 
 ## Установка и запуск:
 
-### 1. Клонирование репозитория (если вы еще не скачали файлы):
-```bash
+git clone https://github.com/l1pos/Currency_Bot.git
+cd Currency_Bot
+
 git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
 cd Currency_Bot
